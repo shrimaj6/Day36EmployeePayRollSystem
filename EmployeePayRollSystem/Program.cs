@@ -22,7 +22,7 @@ namespace EmployeePayRollSystem
 
             EmployeePayRollOperation employeePayRollOperation = new EmployeePayRollOperation();
             employeePayRollOperation.addEmployeeToPayRoll(employeeDetails);
-            employeePayRollOperation.addEmployeeToPayRollWithThread(employeeDetails);
+            employeePayRollOperation.addEmployeeToPayRollWithThread(employeeDetails); 
 
         }
     }
